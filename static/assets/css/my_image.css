@@ -1,0 +1,13 @@
+.imagen-circular {
+  /*width: 200px;
+  height: 200px;*/
+  /*-webkit-transform:scale(2.5);*/
+  object-fit: cover;
+  object-position: 25% 25%;
+  overflow: hidden;
+  border-radius: 50%;
+  object-position: top;
+  /*-webkit-mask-image: linear-gradient(to bottom, transparent 25%, black 100%); /* Recorta la imagen desde la parte superior */
+  /*mask-image: linear-gradient(to bottom, transparent 25%, black 100%);*/
+}
+
